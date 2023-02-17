@@ -1,1 +1,1 @@
-# chatgpt_note
+# chatgpt笔记
